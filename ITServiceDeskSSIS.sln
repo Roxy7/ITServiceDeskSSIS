@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "ITServiceDeskSSIS", "ITServiceDeskSSIS\ITServiceDeskSSIS.dtproj", "{75839608-86BA-4E22-B083-8A0952014751}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75839608-86BA-4E22-B083-8A0952014751}.Development|Default.ActiveCfg = Development
+		{75839608-86BA-4E22-B083-8A0952014751}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47A4A9D1-E588-47AB-9D10-DB72AC8678AE}
+	EndGlobalSection
+EndGlobal
